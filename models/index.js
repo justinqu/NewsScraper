@@ -1,5 +1,5 @@
 
 module.exports = {
-  Article: require("./article"),
+  Headline: require("./Headline"),
   Note: require("./note")
 };
